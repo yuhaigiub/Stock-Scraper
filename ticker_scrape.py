@@ -1,5 +1,5 @@
 import requests
-url = "https://www.hsx.vn/Modules/Listed/Web/SymbolList"
+url = "https://www.hsx.vn/Modules/Listed/Web/Symbols"
 
 querystring = {
     "pageFieldName1":"Code",
