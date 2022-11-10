@@ -7,7 +7,7 @@ There are 2 versions:
 - Use Selenium.
 
 Reference:
-- Tickers data from [hsx](https://www.hsx.vn/Modules/Listed/Web/SymbolList).
+- Tickers data from [hsx](https://www.hsx.vn/Modules/Listed/Web/Symbols).
 - Stocks data from [cafef](https://cafef.vn/).
 - To use with Selenium, please install the [chrome driver](https://chromedriver.chromium.org/downloads).
 
